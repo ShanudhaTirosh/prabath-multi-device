@@ -1,7 +1,7 @@
 {
   "name": "prabath-md-next",
-  "version": "4.0.0",
-  "description": "PRABATH-MD_Next is a Powerful Whatsapp bot, upgraded to ES Modules.",
+  "version": "4.5.0",
+  "description": "PRABATH-MD_Next is a Powerful WhatsApp bot",
   "main": "start.js",
   "type": "module",
   "scripts": {
@@ -16,7 +16,7 @@
     "@hapi/boom": "^9.1.3",
     "@sl-code-lords/image-library": "1.0.0",
     "@vitalets/google-translate-api": "9.2.0",
-    "@whiskeysockets/baileys": "github:AmilaPrabathKumara/Baileys-Latest#fix-leak-upload",
+    "@whiskeysockets/baileys": "github:AmilaPrabathKumara/Baileys-Latest",
     "api-dylux": "latest",
     "axios": "^1.7.9",
     "btch-downloader": "2.3.1-alpha",
